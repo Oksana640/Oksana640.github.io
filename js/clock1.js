@@ -1,4 +1,8 @@
+<<<<<<< HEAD
     function clockPainting() {
+=======
+function clockPainting() {
+>>>>>>> 0e815a751b2e431b8f018d1e1f209092ccbc69da
         var now = new Date();
         var sec = now.getSeconds();
         var min = now.getMinutes();
@@ -72,5 +76,8 @@
         ctx.restore();
 
         ctx.restore();
+<<<<<<< HEAD
     }
 
+=======
+>>>>>>> 0e815a751b2e431b8f018d1e1f209092ccbc69da
